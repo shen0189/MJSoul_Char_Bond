@@ -1,0 +1,7 @@
+.idea
+__pycache__
+image
+frame_image
+plot
+*.TTF
+*.pkl
